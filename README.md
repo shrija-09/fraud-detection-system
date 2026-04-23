@@ -16,3 +16,5 @@ Python, Scikit-learn, FastAPI, Pandas, NumPy
 pip install -r requirements.txt
 python model/train.py
 uvicorn api.main:app --reload
+## 🌐 API Docs
+Run: http://127.0.0.1:8000/docs
